@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  scroll-behavior: smooth;
+}
+.bg-light .p-5{
+  background-image: url(images/hero-bg.avif) no-repeat center;
+}
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+blockquote {
+  border-left: 5px solid #007bff;
+  padding-left: 1rem;
+  font-style: italic;
+}
